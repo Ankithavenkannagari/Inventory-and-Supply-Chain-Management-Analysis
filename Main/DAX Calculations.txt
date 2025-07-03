@@ -1,0 +1,15 @@
+Day Sales of Inventory:
+
+Day Sales of Inventory = DIVIDE(SUM('Inventory and Supply chain Dataset'[Inventory Level]),
+SUM('Inventory and Supply chain Dataset'[Cost of Goods Sold]))*365
+
+
+Inverntory Turnover Ratio:
+
+Inverntory Turnover Ratio = DIVIDE(SUM('Inventory and Supply chain Dataset'[Cost of Goods Sold]),
+SUM('Inventory and Supply chain Dataset'[Average Inventory]))
+
+Warehouse Utilization:
+
+Warehouse Utilization = DIVIDE(SUM('Inventory and Supply chain Dataset'[Inventory Level]),
+SUM('Inventory and Supply chain Dataset'[Warehouse Capacity]))*100
