@@ -2,7 +2,7 @@
 
 
 # Objective: #
-To analyze e-commerce data, uncover trends, and provide actionable insights to stock levels, demand planning, procurement, and logistics performance.
+To analyze supply-chain data, uncover trends, and provide actionable insights to stock levels, demand planning, procurement, and logistics performance.
 
 # Role: # 
 As a data analyst, I cleaned, processed, and visualized the data, translating raw numbers into strategic recommendations for business growth.
