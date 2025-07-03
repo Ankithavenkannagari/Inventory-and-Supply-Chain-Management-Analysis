@@ -1,5 +1,5 @@
 # Inventory-and-Supply-Chain-Management-Analysis Using Power BI #
-![dashboard] (https://github.com/Ankithavenkannagari/Inventory-and-Supply-Chain-Management-Analysis/blob/main/Main/ISP_Dashboard.png)
+
 
 # Objective: #
 To analyze e-commerce data, uncover trends, and provide actionable insights to stock levels, demand planning, procurement, and logistics performance.
