@@ -14,7 +14,7 @@ To analyze **inventory and supply chain operations**, identify bottlenecks, opti
 As the **Data Analyst**, I was responsible for:  
 - Collecting and preparing inventory & logistics datasets.  
 - Performing exploratory and supply chain analytics.  
-- Designing **interactive dashboards** in Power BI for stakeholders.  
+- Designing **interactive dashboards** in Power BI.  
 
 ---
 
